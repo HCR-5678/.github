@@ -1,2 +1,1 @@
-## Hi there 👋
-# Welcome to 5678!
+## Welcome to 5678! 👋
