@@ -3,6 +3,11 @@
 
 ## Who worked on what
 
+* Localisation: Ciaran Dowds
+* User safety: Philippa Davidova
+* Foot Detection: Ben Stobbs
+* Foot Projection: Hassaan-Ul Huda
+
 ### GUI
 * Logo and GUI Designs added to the app: Dominic Moore
 * Main CSS: Hassaan-Ul Huda
@@ -11,3 +16,7 @@
 
 ### Movement
 * Routine Creation: Gabrielle Rubin
+
+### Mechnical
+* Design/CAD and manufacturing: Dominic Moore
+* Rotator motor: Alexander Aujla-Jones
