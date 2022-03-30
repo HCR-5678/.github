@@ -9,5 +9,5 @@
 * Main overall app and backend: Isabella Breslin
 * Video play with controls on Info Page: Angelos Artemiou
 
-## Movement
+### Movement
 * Routine Creation: Gabrielle Rubin
