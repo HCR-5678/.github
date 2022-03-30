@@ -8,6 +8,10 @@
 * Foot Detection: Ben Stobbs
 * Foot Projection: Hassaan-Ul Huda
 
+### Integration
+Arunansu Patra
+Alexandros Souris
+
 ### GUI
 * Logo and GUI Designs added to the app: Dominic Moore
 * Main CSS: Hassaan-Ul Huda
