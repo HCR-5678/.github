@@ -9,8 +9,8 @@
 * Foot Projection: Hassaan-Ul Huda
 
 ### Integration
-Arunansu Patra
-Alexandros Souris
+* Arunansu Patra
+* Alexandros Souris
 
 ### GUI
 * Logo and GUI Designs added to the app: Dominic Moore
