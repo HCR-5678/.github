@@ -4,7 +4,10 @@
 ## Who worked on what
 
 ### GUI
-* Logo and GUI Designs added to the app: Dom
-* Main CSS: Hassaan
-* Main overall app and backend: Isabella
-* Video play with controls on Info Page: Angelos
+* Logo and GUI Designs added to the app: Dominic Moore
+* Main CSS: Hassaan-Ul Huda
+* Main overall app and backend: Isabella Breslin
+* Video play with controls on Info Page: Angelos Artemiou
+
+## Movement
+* Routine Creation: Gabrielle Rubin
