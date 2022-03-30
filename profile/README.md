@@ -1,4 +1,5 @@
 ## Welcome to 5678! 👋
+5678 is a dance instructor robot that teaches the user how to do the waltz.
 
 ## Who worked on what
 
