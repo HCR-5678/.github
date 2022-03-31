@@ -9,8 +9,8 @@
 * Foot Projection: Hassaan-Ul Huda
 
 ### Integration
-* Arunansu Patra
-* Alexandros Souris
+* ROS Integration: Arunansu Patra
+* Web App Integration: Alexandros Souris
 
 ### GUI
 * Logo and GUI Designs added to the app: Dominic Moore
@@ -20,6 +20,7 @@
 
 ### Movement
 * Routine Creation: Gabrielle Rubin
+* Robot Movement: Arunansu Patra
 
 ### Mechnical
 * Design/CAD and manufacturing: Dominic Moore
