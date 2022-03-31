@@ -7,6 +7,7 @@
 * User safety: Philippa Davidova
 * Foot Detection: Ben Stobbs
 * Foot Projection: Hassaan-Ul Huda
+* Advanced Foot Projection (not used): Ole Strohm
 
 ### Integration
 * ROS Integration: Arunansu Patra
